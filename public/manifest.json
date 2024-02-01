@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Excel Validator",
+  "name": "Excel React Antd Import Validator",
   "icons": [
     {
       "src": "favicon.ico",
